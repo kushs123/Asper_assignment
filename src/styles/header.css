@@ -1,0 +1,43 @@
+.header {
+  background-color: black;
+  display: flex;
+  flex: none;
+  justify-content: space-between;
+}
+
+.right-items {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 13px;
+}
+
+.left-items {
+  margin-top: 12px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+}
+.top-icons {
+  width: 20px;
+  height: 20px;
+  color: #ffffff;
+  margin-right: 15px;
+}
+#name {
+  color: white;
+  font-size: 13px;
+  margin-top: 2px;
+  margin-left: 5px;
+}
+.left-mid-items {
+  margin-top: 1px;
+  margin-right: 20px;
+}
+#grid {
+  margin-right: 40px;
+}
+
+#message {
+  width: 20px;
+  height: 20px;
+}

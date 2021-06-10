@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  display: flex;
+  overflow: hidden;
+}
+
+.right-area {
+  width: 100%;
+}
